@@ -1,0 +1,1 @@
+{"required":["id"],"unique":["id"],"date":["date"],"number":["total"]}
